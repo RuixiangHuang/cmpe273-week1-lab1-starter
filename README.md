@@ -1,4 +1,5 @@
 ***Lab 1 Assignment for CMPE 293***
+
 To start this project, use command 
 ``` 
 docker-compose up --build
