@@ -6,12 +6,8 @@ app = FastAPI()
 
 @app.get("/ping")
 def ping():
-    return {"message": "pong"}
-
-@app.get("/hello/{name}")
-def hello(name: str):
-    return {"hello": name}
+    return {"message": "pong1"}
 
 @app.get("/echo")
 def echo(msg: str):
-    return {"echo": msg}
+    return {"echo from service 1": msg}
