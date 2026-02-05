@@ -62,7 +62,7 @@ curl: (7) Failed to connect to localhost port 8000 after 0 ms: Couldn't connect 
 
 Screenshot
 
-[![Result Screenshot](./images/result.png)](https://github.com/RuixiangHuang/cmpe273-week1-lab1-starter/blob/main/lab1.png)
+![Result Screenshot](./lab1.png)
 
 **Refelection**
 
